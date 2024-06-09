@@ -2,7 +2,7 @@ import React from 'react'
 
 const Features = () => {
   return (
-    <div className='flex flex-col md:flex-row relative gap-y-10 md:gap-x-48 h-auto md:h-full max-w-screen overflow-hidden mt-10 p-6 md:p-10 lg:px-24'>
+    <div className='flex flex-col md:flex-row relative gap-y-10 md:gap-x-48 lg:gap-x-56 h-auto md:h-full max-w-screen overflow-hidden mt-10 p-6 md:p-10 lg:px-24'>
       <img className='h-12 absolute left-8 top-16' src="/icons/star-1.png" alt="" />
       <div className='h-auto lg:h-[80vh] md:h-[50vh] w-full md:w-2/5'>
         <div className="relative z-10">
