@@ -3,8 +3,8 @@ import React from 'react'
 const Adv1 = () => {
   return (
     <div className='flex flex-col lg:flex-row relative items-center justify-center gap-y-10 lg:gap-x-40 h-auto lg:h-screen max-w-screen overflow-hidden px-6 md:px-16 lg:px-24'>
-      <img className='h-[35rem] absolute bottom-5 right-20 lg:right-20 md:right-40 sm:right-20' src="/icons/bg-gradient.png" alt="bg gradient" />
-      <img className='h-12 absolute right-6 md:right-12 top-10 md:top-20' src="/icons/star-1.png" alt="" />
+      <img className='h-[28rem] sm:[35rem] absolute bottom-5 right-20 lg:right-20 md:right-40 sm:right-20' src="/icons/bg-gradient.png" alt="bg gradient" />
+      <img className='h-12 absolute right-6 md:right-12 top-16 sm:top-10 md:top-20' src="/icons/star-1.png" alt="" />
       <img className='h-12 absolute right-24 md:right-[45rem] bottom-0' src="/icons/star-2.png" alt="" />
       <div className='text max-w-full lg:max-w-[38vw]'>
         <h1 className='text-red-600 text-lg md:text-xl uppercase font-semibold mb-3 md:mb-5'>Advantages</h1>
@@ -21,12 +21,12 @@ const Adv1 = () => {
       </div>
       <div className='h-[60vh] md:h-[70vh] lg:h-[80vh] w-full lg:w-2/5'>
         <div className="relative z-10">
-          <img className="absolute h-[30rem] md:h-[40rem] lg:h-[45rem] top-0 lg:top-0 md:top-0 sm:top-10 translate-x-0 lg:-translate-x-10  -translate-y-10 left-0 md:left-40 sm:left-48 z-10" src="/icons/iPhone-13-Pro-Front-straight-1.png" alt="iPhone 13 Pro Front" />
+          <img className="absolute h-[25rem] sm:h-[30rem] md:h-[40rem] lg:h-[45rem] top-8 lg:top-0 md:top-0 sm:top-10 translate-x-0 lg:-translate-x-10  -translate-y-10 left-10 md:left-40 sm:left-48 z-10" src="/icons/iPhone-13-Pro-Front-straight-1.png" alt="iPhone 13 Pro Front" />
         </div>
         <div className="ellipse relative">
-          <img className='absolute w-[24rem] md:w-[28rem] lg:w-[32rem] -translate-x-8 md:-translate-x-1 lg:-translate-x-16 left-20 md:left-28 sm:left-32 lg:left-36 top-0' src="/icons/Ellipse.png" alt="" />
-          <img className='absolute w-[24rem] md:w-[28rem] lg:w-[32rem] -translate-x-8 md:-translate-x-1 lg:-translate-x-16 left-14 md:left-20 sm:left-36 lg:left-24 top-4 md:top-5 lg:top-6' src="/icons/Ellipse.png" alt="" />
-          <img className='absolute w-[24rem] md:w-[28rem] lg:w-[32rem] -translate-x-8 md:-translate-x-1 lg:-translate-x-16 left-10 md:left-14 sm:left-40 lg:left-14 top-8 md:top-10 lg:top-12' src="/icons/Ellipse.png" alt="" />
+          <img className='absolute w-[18rem] sm:w-[24rem] md:w-[28rem] lg:w-[32rem] -translate-x-14 sm:-translate-x-8 md:-translate-x-1 lg:-translate-x-16 left-20 md:left-28 sm:left-32 lg:left-36 top-0' src="/icons/Ellipse.png" alt="" />
+          <img className='absolute w-[18rem] sm:w-[24rem] md:w-[28rem] lg:w-[32rem] -translate-x-14 sm:-translate-x-8 md:-translate-x-1 lg:-translate-x-16 left-14 md:left-20 sm:left-36 lg:left-24 top-4 md:top-5 lg:top-6' src="/icons/Ellipse.png" alt="" />
+          <img className='absolute w-[18rem] sm:w-[24rem] md:w-[28rem] lg:w-[32rem] -translate-x-14 sm:-translate-x-8 md:-translate-x-1 lg:-translate-x-16 left-10 md:left-14 sm:left-40 lg:left-14 top-8 md:top-10 lg:top-12' src="/icons/Ellipse.png" alt="" />
         </div>
       </div>
     </div>

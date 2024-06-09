@@ -3,10 +3,10 @@ import React from 'react'
 const Features = () => {
   return (
     <div className='flex flex-col md:flex-row relative gap-y-10 md:gap-x-48 lg:gap-x-56 h-auto md:h-full max-w-screen overflow-hidden mt-10 mb-10 p-6 md:p-10 lg:px-24'>
-      <img className='h-[30rem] lg:block md:block sm:hidden lg:h-[30rem] md:h-[25rem] absolute -left-1' src="/icons/bg-gradient.png" alt="bg gradient" />
-      <img className='h-[15rem] lg:block md:block sm:hidden lg:h-[15rem] md:h-[10rem] absolute -right-10' src="/icons/bg-gradient.png" alt="bg gradient" />
-      <img className='h-12 absolute left-8 lg:left-8 md:left-8 sm:left-[35rem] top-16 lg:top-16 md:top-16' src="/icons/star-1.png" alt="" />
-      <div className='h-auto lg:h-[80vh] lg:block md:block sm:hidden md:h-[50vh] w-full md:w-2/5'>
+      <img className='h-[30rem] lg:block md:block hidden lg:h-[30rem] md:h-[25rem] absolute -left-1' src="/icons/bg-gradient.png" alt="bg gradient" />
+      <img className='h-[15rem] lg:block md:block hidden lg:h-[15rem] md:h-[10rem] absolute -right-10' src="/icons/bg-gradient.png" alt="bg gradient" />
+      <img className='h-12 absolute left-[20rem] lg:left-8 md:left-8 sm:left-[35rem] top-16 lg:top-16 md:top-16' src="/icons/star-1.png" alt="" />
+      <div className='h-auto lg:h-[80vh] lg:block md:block hidden md:h-[50vh] w-full md:w-2/5'>
         <div className="relative z-10">
           <img className="absolute lg:h-[48rem] md:h-[27rem] top-0 lg:top-0 md:top-16 translate-x-0 md:translate-x-28 -translate-y-10 lg:left-0 left-0 md:-left-10 z-10" src="/icons/iPhone-13-Pro-Front-straight.png" alt="iPhone 13 Pro Front" />
         </div>
