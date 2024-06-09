@@ -27,8 +27,8 @@ const Download = () => {
             <img className='h-10' src="/icons/vector.png" alt="apple-icon" />
           </div>
         </div>
-        <div className="images absolute -right-28 lg:-right-28  top-8 lg:top-8 md:top-1">
-          <img className='h-[30rem] lg:h-[30rem] md:h-[15rem]' src="/icons/iPhone-13-Pro-black-div.png" alt="" />
+        <div className="images absolute -right-28 lg:-right-28  top-8 lg:top-8 md:top-1 sm:top-0">
+          <img className='h-[30rem] lg:h-[30rem] md:h-[15rem] sm:h-[10rem]' src="/icons/iPhone-13-Pro-black-div.png" alt="" />
         </div>
       </div>
       
