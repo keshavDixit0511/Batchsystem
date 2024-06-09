@@ -3,6 +3,7 @@ import React from 'react'
 const Adv1 = () => {
   return (
     <div className='flex flex-col lg:flex-row relative items-center justify-center gap-y-10 lg:gap-x-40 h-auto lg:h-screen max-w-screen overflow-hidden px-6 md:px-16 lg:px-24'>
+      <img className='h-[35rem] absolute bottom-5 right-20 lg:right-20 md:right-40 sm:right-20' src="/icons/bg-gradient.png" alt="bg gradient" />
       <img className='h-12 absolute right-6 md:right-12 top-10 md:top-20' src="/icons/star-1.png" alt="" />
       <img className='h-12 absolute right-24 md:right-[45rem] bottom-0' src="/icons/star-2.png" alt="" />
       <div className='text max-w-full lg:max-w-[38vw]'>

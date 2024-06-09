@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar = () => {
   return (
     <nav>
-        <div className='max-w-[90vw] flex justify-around my-10 mb-10 '>
+        <div className='max-w-[90vw] flex gap-x-10 justify-around my-10 mb-10 '>
             
             <div className="main-nav flex gap-5 items-center">
                 <div className="logo flex gap-3 mx-9">

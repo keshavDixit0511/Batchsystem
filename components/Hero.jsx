@@ -3,6 +3,7 @@ import React from 'react'
 const Hero = () => {
   return (
     <div className='flex flex-col md:flex-row relative h-screen lg:h-screen md:h-full max-w-screen overflow-hidden p-8 md:p-12 lg:p-16'>
+      <img className='h-[40rem] lg:h-[40rem] md:h-[25rem] absolute right-[5rem] lg:right-[5rem] md:-right-[4rem] bottom-[2rem] lg:bottom-[2rem] md:bottom-[15rem]' src="/icons/bg-gradient.png" alt="bg gradient" />
       <img className='h-12 absolute left-8 -top-2' src="/icons/star-1.png" alt="" />
       <img className='h-12 absolute right-10 -top-3' src="/icons/star-2.png" alt="" />
       <img className='h-12 absolute bottom-[12rem] left-[48rem] hidden md:block' src="/icons/star-1.png" alt="" />

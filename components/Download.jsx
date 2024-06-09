@@ -3,6 +3,7 @@ import React from 'react'
 const Download = () => {
   return (
     <div className='h-[70vh] w-full relative overflow-hidden'>
+      <img className='h-[20rem] absolute -left-20 -top-5' src="/icons/bg-gradient.png" alt="bg gradient" />
       <img className='h-12 absolute right-12 top-0' src="/icons/star-1.png" alt="" />
       <img className='h-12 absolute left-14 top-[15rem]' src="/icons/star-2.png" alt="" />
     <div className='mx-auto px-28 bg-black relative text-white h-[70vh] lg:h-[70vh] md:h-[50vh] my-20 overflow-hidden max-w-[78vw]'>

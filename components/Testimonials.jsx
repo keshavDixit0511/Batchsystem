@@ -3,6 +3,7 @@ import React from 'react'
 const Testimonials = () => {
   return (
     <div className='relative'>
+      <img className='h-[35rem] absolute left-40 bottom-20 lg:block md:hidden sm:hidden' src="/icons/bg-gradient.png" alt="bg gradient" />
       <img className='h-12 absolute left-[5rem] bottom-28' src="/icons/star-2.png" alt="" />
     <div className='flex flex-col gap-5 items-center justify-center'>
         <h1 className='uppercase font-semibold text-red-500'>Testimonial</h1>
