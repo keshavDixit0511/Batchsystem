@@ -19,16 +19,16 @@ const Download = () => {
           <img className='absolute z-0 w-[32rem] -right-[24rem] invert -top-[20rem]' src="/icons/Ellipse.png" alt="" />
         </div>
       <div className="text-image relative">
-        <div className="text text-white mt-[8rem] max-w-[32rem] z-10 absolute">
-          <h1 className='text-5xl capitalize my-7 font-black'>Ready to get started?</h1>
-          <p className='my-8 text-xl'>Risus habitant leo egestas mauris diam eget morbi tempus vulputate.</p>
-          <div className='flex items-center max-w-[14rem] p-3 rounded-md text-black gap-x-10 bg-white'>
+        <div className="text text-white mt-[8rem] max-w-[32rem] lg:max-w-[32rem] md:max-w-[18rem] z-10 absolute">
+          <h1 className='text-5xl lg:text-5xl md:text-3xl capitalize my-7 font-black'>Ready to get started?</h1>
+          <p className='my-8 text-xl lg:text-xl md:text-sm'>Risus habitant leo egestas mauris diam eget morbi tempus vulputate.</p>
+          <div className='flex items-center max-w-[14rem] lg:max-w-[14rem] md:max-w-[11rem] p-3 lg:p-3 md:p-1 rounded-md text-black gap-x-10 lg:gap-x-10 md:gap-x-2 bg-white'>
             <p>Download Now</p>
             <img className='h-10' src="/icons/vector.png" alt="apple-icon" />
           </div>
         </div>
-        <div className="images absolute -right-28 top-8">
-          <img className='h-[30rem]' src="/icons/iPhone-13-Pro-black-div.png" alt="" />
+        <div className="images absolute -right-28 lg:-right-28  top-8 lg:top-8 md:top-1">
+          <img className='h-[30rem] lg:h-[30rem] md:h-[15rem]' src="/icons/iPhone-13-Pro-black-div.png" alt="" />
         </div>
       </div>
       
