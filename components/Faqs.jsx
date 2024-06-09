@@ -9,29 +9,29 @@ const Faqs = () => {
             <div className='flex flex-col gap-y-10'>
                 <div className='bg-red-500 text-white h-auto p-6 md:h-36 md:max-w-[28rem] lg:max-w-[35rem] md:p-9 rounded-lg'>
                   <h1 className='capitalize text-lg md:text-xl font-extrabold'>The best financial accounting app ever!</h1>
-                  <h2>“Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris."</h2>
+                  <h2>&quot;Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris.&quot;</h2>
                 </div>
                 <div className='h-auto p-6 md:h-36 md:max-w-[28rem] lg:max-w-[35rem] md:p-9 rounded-lg'>
                   <h1 className='capitalize text-lg md:text-xl font-extrabold'>The best financial accounting app ever!</h1>
-                  <h2>“Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris."</h2>
+                  <h2>&quot;Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris.&quot;</h2>
                 </div>
                 <div className='bg-red-500 text-white h-auto p-6 md:h-36 md:max-w-[28rem] lg:max-w-[35rem] md:p-9 rounded-lg'>
                   <h1 className='capitalize text-lg md:text-xl font-extrabold'>The best financial accounting app ever!</h1>
-                  <h2>“Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris."</h2>
+                  <h2>&quot;Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris.&quot;</h2>
                 </div>
             </div>
             <div className='flex flex-col gap-y-10'>
                 <div className='h-auto p-6 md:h-36 md:max-w-[28rem] lg:max-w-[35rem] md:p-9 rounded-lg'>
                   <h1 className='capitalize text-lg md:text-xl font-extrabold'>The best financial accounting app ever!</h1>
-                  <h2>“Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris."</h2>
+                  <h2>&quot;Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris.&quot;</h2>
                 </div>
                 <div className='bg-red-500 text-white h-auto p-6 md:h-36 md:max-w-[28rem] lg:max-w-[35rem] md:p-9 rounded-lg'>
                   <h1 className='capitalize text-lg md:text-xl font-extrabold'>The best financial accounting app ever!</h1>
-                  <h2>“Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris."</h2>
+                  <h2>&quot;Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris.&quot;</h2>
                 </div>
                 <div className='h-auto p-6 md:h-36 md:max-w-[28rem] lg:max-w-[35rem] md:p-9 rounded-lg'>
                   <h1 className='capitalize text-lg md:text-xl font-extrabold'>The best financial accounting app ever!</h1>
-                  <h2>“Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris."</h2>
+                  <h2>&quot;Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris.&quot;</h2>
                 </div>
             </div>
         </div>
