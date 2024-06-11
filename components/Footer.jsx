@@ -48,7 +48,7 @@ const Footer = () => {
           <a className='' href="#">Stay Up To Date</a>
           <div className="mail-box flex flex-col md:flex-row items-center gap-2 lg:gap-0">
             <input className='border-2 border-black outline-none rounded-lg p-2 w-full lg:w-auto' type="email" name="mail" id="mail" placeholder='Your Email'/>
-            <div className='bg-black text-white p-2 lg:p-4 rounded-lg mt-2 md:mt-0'>Subscribe</div>
+            <div className='bg-black text-white p-2 lg:p-3 rounded-lg mt-2 md:mt-0'>Subscribe</div>
           </div>
         </div>
       </div>
