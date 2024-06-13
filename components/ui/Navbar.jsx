@@ -8,7 +8,7 @@ const Navbar = () => {
             <div className="main-nav flex gap-2 text-xs sm:text-base sm:gap-5 items-center">
                 <div className="logo flex gap-1 sm:gap-3 mx-2 sm:mx-9">
                     <img className='h-5 sm:h-7' src="/icons/main-icon.png" alt="" />
-                    <img className='h-5 sm:h-7' src="/icons/vector-main.png" alt="" />
+                    <img className='h-5 sm:h-7' src="/icons/Vector-main.png" alt="" />
                 </div>
                 <a href="">Home</a>
                 <a href="">Aboutus</a>

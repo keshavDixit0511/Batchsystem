@@ -6,7 +6,7 @@ const Footer = () => {
       <div className='icon-mail-phone flex flex-col items-center lg:items-start'>
         <div className="logo flex gap-3 my-5">
           <img className='h-7' src="/icons/main-icon.png" alt="" />
-          <img className='h-7' src="/icons/vector-main.png" alt="" />
+          <img className='h-7' src="/icons/Vector-main.png" alt="" />
         </div>
         <div className='email flex gap-3 my-5'>
           <img className='h-6' src="/icons/email-icon-frame.png" alt="email-icon" />

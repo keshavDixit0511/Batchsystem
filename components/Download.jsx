@@ -26,7 +26,7 @@ const Download = () => {
           <p className='my-8 text-base lg:text-xl md:text-sm'>Risus habitant leo egestas mauris diam eget morbi tempus vulputate.</p>
           <div className='flex items-center max-w-[10rem] sm:max-w-[14rem] lg:max-w-[14rem] md:max-w-[11rem] p-3 lg:p-3 md:p-1 rounded-md text-black gap-x-1 lg:gap-x-10 md:gap-x-2 bg-white'>
             <p className='text-sm sm:text-base'>Download Now</p>
-            <Image className='h-5 w-5 sm:h-10 sm:w-10' src="/icons/appleIcon.png"  height={1000} width={1000} />
+            <img className='h-5 w-4 sm:h-10 sm:w-8' src="/icons/appleIcon.png"/>
           </div>
         </div>
         <div className="images absolute -right-14 sm:-right-28 lg:-right-28  top-5 lg:top-8 md:top-1 sm:top-0">
